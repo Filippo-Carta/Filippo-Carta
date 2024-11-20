@@ -7,9 +7,7 @@
 - 📫 How to reach me: You can contact me on Telegram at FilippoCcane_ or on discord with the same username.
 
 HERE IS MY PYTHON CERTIFICATION : https://freecodecamp.org/certification/fcc9413ca9b-17b4-4e75-bd33-2dccb215ec8c/scientific-computing-with-python-v7
-
-
-![image](https://github.com/user-attachments/assets/4a8e7952-6f51-45aa-91e2-f29680b803a4)
+HERE IS MY C# CERTIFICATE WITH MICROSOFT: https://www.freecodecamp.org/certification/fcc9413ca9b-17b4-4e75-bd33-2dccb215ec8c/foundational-c-sharp-with-microsoft
 
 - I'll make your project easier. See you 👋!
 <!---
