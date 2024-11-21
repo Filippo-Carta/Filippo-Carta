@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Filippo-Carta
   
-- 👀 I’m interested in Python, Sql, Javascript, HTML and css.
+- 👀 I’m interested in Python, C#, Sql, Javascript with HTML and css.
 - 🌱 I’m currently improving C# .
   
 - 💞️ I’m looking to collaborate on a project with someone!
