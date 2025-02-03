@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Filippo-Carta
   
-- 👀 I’m interested in Python, C#, Sql, Javascript with HTML and css.
-- 🌱 I’m currently improving C# .
+- 👀 I’m interested in Python, PowerShell, C#, Sql, Javascript with HTML and css.
+- 🌱 I’m currently improving PowerShell.
   
 - 💞️ I’m looking to collaborate on a project with someone!
 - 📫 How to reach me: You can contact me on Telegram at FilippoCcane_ or contact me at filippocarta090@gmail.com .
