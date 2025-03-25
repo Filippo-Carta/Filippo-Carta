@@ -10,6 +10,9 @@ HERE IS MY PYTHON CERTIFICATION : https://freecodecamp.org/certification/fcc9413
 
 HERE IS MY C# CERTIFICATE WITH MICROSOFT: https://www.freecodecamp.org/certification/fcc9413ca9b-17b4-4e75-bd33-2dccb215ec8c/foundational-c-sharp-with-microsoft
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,cs,cpp,linux,npm,py,raspberrypi,stackoverflow,visualstudio,vscode)](https://skillicons.dev)
+
+
 - I'll make your project easier. See you 👋!
 <!---
 Filippo-Carta/Filippo-Carta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
