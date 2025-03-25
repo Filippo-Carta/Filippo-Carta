@@ -12,6 +12,7 @@ HERE IS MY PYTHON CERTIFICATION : [Click here](https://freecodecamp.org/certific
 HERE IS MY C# CERTIFICATE WITH MICROSOFT: [Click here](https://www.freecodecamp.org/certification/fcc9413ca9b-17b4-4e75-bd33-2dccb215ec8c/foundational-c-sharp-with-microsoft)
 
 
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wordpress,bash,powershell,cs,cpp,py,raspberrypi,stackoverflow,visualstudio,vscode,git,dotnet,php,vim,arch,mint,kali,linux,npm)](https://skillicons.dev)
 
 
