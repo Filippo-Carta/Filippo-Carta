@@ -6,6 +6,7 @@
 - 💞️ I’m looking to collaborate on a project with someone!
 - 📫 How to reach me: You can contact me on Telegram at FilippoCcane_ or contact me at filippocarta090@gmail.com .
 
+
 HERE IS MY PYTHON CERTIFICATION : [Click here](https://freecodecamp.org/certification/fcc9413ca9b-17b4-4e75-bd33-2dccb215ec8c/scientific-computing-with-python-v7)
 
 HERE IS MY C# CERTIFICATE WITH MICROSOFT: [Click here](https://www.freecodecamp.org/certification/fcc9413ca9b-17b4-4e75-bd33-2dccb215ec8c/foundational-c-sharp-with-microsoft)
