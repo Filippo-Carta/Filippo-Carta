@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Filippo-Carta
   
-- 👀 I’m interested in Python, PowerShell, C#, Sql, Javascript with HTML and css.
+- 👀 I’m interested in Python, PowerShell, C#, C++, Sql, Javascript with HTML, Css and cybersecurity.
 - 🌱 I’m currently improving C++/C#.
 - I'll make your project easier. See you 👋!
 - 💞️ I’m looking to collaborate on a project with someone!
