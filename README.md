@@ -18,7 +18,7 @@ HERE IS MY CISCO CERTIFICATE:  [Click here](https://www.credly.com/badges/024dd5
 ![LINUX](https://img.shields.io/badge/linux-%2320232a.svg?style=for-the-badge&logo=linux&logoColor=%2361DAFB)![BASH](https://img.shields.io/badge/Bash-%2320232a.svg?style=for-the-badge&logo=gnubash&logoColor=%2361DAFB)![PYTHON](https://img.shields.io/badge/python-%2320232a.svg?style=for-the-badge&logo=python&logoColor=%2361DAFB)![GIT](https://img.shields.io/badge/git-%2320232a.svg?style=for-the-badge&logo=git&logoColor=%2361DAFB)
 
 # Others
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wordpress,bash,powershell,cs,cpp,py,raspberrypi,stackoverflow,visualstudio,vscode,git,dotnet,php,vim,arch,mint,kali,linux,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wordpress,bash,powershell,cs,cpp,py,java,raspberrypi,stackoverflow,visualstudio,vscode,git,dotnet,php,vim,arch,mint,kali,linux,npm)](https://skillicons.dev)
 
 
 <!---
